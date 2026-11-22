@@ -1,0 +1,15 @@
+{
+  "shop": "Go'zallik do'koni",
+  "currency": "so'm",
+  "products": [
+    {"id": 1, "category": "Teri parvarishi", "name": "C vitaminli zardob", "description": "Terini yorqinlashtiradi va dog'larni kamaytiradi. 30 ml.", "price": 145000, "emoji": "🍊", "image": ""},
+    {"id": 2, "category": "Teri parvarishi", "name": "Namlovchi krem", "description": "Kun bo'yi namlik va yumshoqlik beradi. 50 ml.", "price": 98000, "emoji": "🧴", "image": ""},
+    {"id": 3, "category": "Teri parvarishi", "name": "Yuz yuvish geli", "description": "Terini yumshoq tozalaydi, qurutib yubormaydi. 150 ml.", "price": 62000, "emoji": "🫧", "image": ""},
+    {"id": 4, "category": "Makiyaj", "name": "Mat lab bo'yog'i", "description": "Uzoq turadi, mat qoplama beradi. Atirgul rangi.", "price": 75000, "emoji": "💄", "image": ""},
+    {"id": 5, "category": "Makiyaj", "name": "Kipriklar uchun tush", "description": "Kipriklarga hajm va uzunlik beradi, yuqmaydi.", "price": 89000, "emoji": "✨", "image": ""},
+    {"id": 6, "category": "Makiyaj", "name": "Tonal krem", "description": "Yengil qoplama, tabiiy ko'rinish. SPF 15.", "price": 120000, "emoji": "🎨", "image": ""},
+    {"id": 7, "category": "Soch parvarishi", "name": "Tiklovchi soch niqobi", "description": "Zararlangan sochlarni oziqlantiradi va tiklaydi. 250 ml.", "price": 110000, "emoji": "💆‍♀️", "image": ""},
+    {"id": 8, "category": "Soch parvarishi", "name": "Argan moyli shampun", "description": "Yumshoq tozalaydi, sochga yaltiroqlik beradi. 300 ml.", "price": 85000, "emoji": "🌿", "image": ""},
+    {"id": 9, "category": "Parfyumeriya", "name": "Gul hidli atir", "description": "Yengil gul va vanil notalari. 50 ml.", "price": 260000, "emoji": "🌸", "image": ""}
+  ]
+}
